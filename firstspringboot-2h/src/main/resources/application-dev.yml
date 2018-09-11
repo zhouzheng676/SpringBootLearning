@@ -4,6 +4,6 @@ server:
 
 girl:
   cupSize: B
-  age: 18
+  age: 17
   content: content:${cupSize},age:${age}
 
